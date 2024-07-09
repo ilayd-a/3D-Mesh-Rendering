@@ -29,9 +29,9 @@ Make sure your Conda environment is activated and install PyTorch using pip.
    ```
 7) Install PyTorch3D via Pip:
 
-Install the required dependencies and PyTorch3D.
-   ```shell
-      pip install "git+https://github.com/facebookresearch/pytorch3d.git"
-   ```
+   Install the required dependencies and PyTorch3D.
+      ```shell
+         pip install "git+https://github.com/facebookresearch/pytorch3d.git"
+      ```
       
 8) Then simply "python main.py"!!
