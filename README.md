@@ -15,9 +15,9 @@ This is a basic program to get familiar with Pytorch3D. I used [this](https://ww
      source ~/.bash_profile
    ```
 4) Create a new conda environment:
-  ```shell
-     conda create -n pytorch3d_env python=3.9
-   ```
+     ```shell
+        conda create -n pytorch3d_env python=3.9
+      ```
 5) Activate the environment:
    ```shell
       conda activate pytorch3d_env
