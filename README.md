@@ -27,7 +27,7 @@ Make sure your Conda environment is activated and install PyTorch using pip.
    ```shell
       pip install torch torchvision torchaudio
    ```
-7)Install PyTorch3D via Pip:
+7) Install PyTorch3D via Pip:
 
 Install the required dependencies and PyTorch3D.
    ```shell
