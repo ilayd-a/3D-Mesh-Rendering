@@ -20,17 +20,17 @@ This is a basic program to get familiar with Pytorch3D. I used [this](https://ww
 
 ```
 5) Activate the environment:
-```shell
+   ```shell
 conda activate pytorch3d_env
 ```
 6) Install PyTorch via Pip:
 Make sure your Conda environment is activated and install PyTorch using pip.
-```shell
+   ```shell
 pip install torch torchvision torchaudio
 ```
 7)Install PyTorch3D via Pip:
 Install the required dependencies and PyTorch3D.
-```shell
+   ```shell
 pip install "git+https://github.com/facebookresearch/pytorch3d.git"
 ```
 8) Then simply "python main.py"!!
