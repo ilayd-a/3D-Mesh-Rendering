@@ -35,3 +35,7 @@ Make sure your Conda environment is activated and install PyTorch using pip.
       ```
       
 8) Then simply "python main.py"!!
+
+You should get something like this:
+
+<img width="644" alt="Screenshot 2024-07-09 at 5 04 46 PM" src="https://github.com/ilayd-a/3D-Mesh-Rendering/assets/66847423/89fb9816-fab0-4bf2-8e98-10f9448a8a91">
